@@ -10,5 +10,5 @@ Welcome to theATS Friendly, editable resume template repository, brought to you 
 
 **Getting Started**
  1. Clone the Repository: git clone https://github.com/easyhaicode/Resume-Template-EasyHaiCode.git
- 2. Explore Templates: Find and open the templates in the templates folder.
+ 2. Explore Templates: Find and open the template called Resume-template-freshers.
  3. Edit and Compile: Modify the LaTeX code as needed and compile using a LaTeX editor(https://www.overleaf.com/) to create your customized resume.
