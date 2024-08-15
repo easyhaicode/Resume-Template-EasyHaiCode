@@ -9,6 +9,6 @@ Welcome to theATS Friendly, editable resume template repository, brought to you 
  4. Professional Layouts: Choose from a variety of elegant, professional layouts to present your qualifications effectively.
 
 **Getting Started**
- 1. Clone the Repository: git clone https://github.com/yourusername/ats-friendly-latex-resumes.git
+ 1. Clone the Repository: git clone https://github.com/easyhaicode/Resume-Template-EasyHaiCode.git
  2. Explore Templates: Find and open the templates in the templates folder.
  3. Edit and Compile: Modify the LaTeX code as needed and compile using a LaTeX editor(https://www.overleaf.com/) to create your customized resume.
